@@ -14,3 +14,5 @@
 * CRUD opeartions
 * Flask Framework
 * Database queries
+
+Learn't from : Freecodecamp
