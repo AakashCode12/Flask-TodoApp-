@@ -2,7 +2,7 @@
 
 # To Start the Application, Use the following Commands :-
 
-    cd venv
+    cd env
     cd Scripts
     activate
     cd ..
