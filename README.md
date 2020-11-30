@@ -8,3 +8,9 @@
     cd ..
     cd ..
     python app.py
+
+# Things Learn't
+
+* CRUD opeartions
+* Flask Framework
+* Database queries
